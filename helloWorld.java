@@ -2,6 +2,6 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello this is for the jenkins changes test!!!"); 
+        System.out.println("Hello this is for the jenkins changes webhook test!!!"); 
     }
 }
